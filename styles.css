@@ -5,7 +5,7 @@
 body {
   margin: 20;
   font-family: system-ui, sans-serif;
-  color: black;
+  color: white;
   background-color: black;
 }
 
@@ -54,4 +54,13 @@ main {
   color: cyan;
   /* 가독성을 위해 검은 테두리를 임의로 주려면 텍스트 섀도우를 사용합니다 */
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.card{
+  border:2px solid rgb(47, 92, 92);
+  margin-top: 100px;
+  padding: 20px;
+  width: 400px;
+  margin: 10px;
+  background-color: rgb(51, 50, 35);
 }
