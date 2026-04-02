@@ -56,11 +56,10 @@ main {
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
-.card{
-  border:2px solid rgb(47, 92, 92);
-  margin-top: 100px;
-  padding: 20px;
-  width: 400px;
+.card {
   margin: 10px;
+  padding: 50px;
+  border: 2px solid #aaa;
+  width: 400px;
   background-color: rgb(51, 50, 35);
 }
